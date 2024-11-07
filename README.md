@@ -1,6 +1,6 @@
 # Piratecode
 
-Piratecode is a Python library designed to facilitate secure encryption and decryption of files and payloads using a custom encryption key. This repository contains the following modules:
+Piratecode is an easy-to-use Python library designed to facilitate secure encryption and decryption of files and payloads using a custom encryption key. This repository contains the following modules:
 
 - `bytekey.py`
 - `__init__.py`
